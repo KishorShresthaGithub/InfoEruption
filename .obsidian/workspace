@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "8ea529c98bd63ea4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0cac5779808f526",
+        "type": "leaf",
+        "dimension": 58.84615384615385,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Planner/Mind Map.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1766d86e5363ddca",
+        "type": "leaf",
+        "dimension": 41.15384615384615,
+        "state": {
+          "type": "mindmap",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51655360596d800e",
+    "type": "split",
+    "children": [
+      {
+        "id": "489122b8027a1cdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f342b69ce2ba21f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3b16bf6861e9d1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fee3cb2ccd379d39",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6dc4c954aa25fd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4de7d975031954bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Planner/Mind Map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c0cac5779808f526",
+  "lastOpenFiles": [
+    "Notes/Planner/Mind Map.md",
+    "Notes/Planner/Planner.md"
+  ]
+}
