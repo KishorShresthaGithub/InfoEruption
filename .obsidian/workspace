@@ -6,11 +6,11 @@
       {
         "id": "c0cac5779808f526",
         "type": "leaf",
-        "dimension": 58.84615384615385,
+        "dimension": 39.166666666666664,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Planner/Mind Map.md",
+            "file": "Notes/Sim Management/Mind Map.md",
             "mode": "source"
           }
         }
@@ -18,7 +18,7 @@
       {
         "id": "1766d86e5363ddca",
         "type": "leaf",
-        "dimension": 41.15384615384615,
+        "dimension": 60.83333333333333,
         "state": {
           "type": "mindmap",
           "state": {}
@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fee3cb2ccd379d39",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Planner/Mind Map.md",
+                "file": "Notes/Sim Management/Mind Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +99,9 @@
   },
   "active": "c0cac5779808f526",
   "lastOpenFiles": [
-    "Notes/Planner/Mind Map.md",
-    "Notes/Planner/Planner.md"
+    "Notes/Sim Management/Mind Map.md",
+    "Notes/Planner/Topics/Sim Management/State/Redux.md",
+    "Notes/Sim Management/Planner.md",
+    "Notes/Planner/Extras/assets/Pasted image 20220424201215.png"
   ]
 }
