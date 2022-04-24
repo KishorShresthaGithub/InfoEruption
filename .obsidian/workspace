@@ -6,7 +6,7 @@
       {
         "id": "c0cac5779808f526",
         "type": "leaf",
-        "dimension": 39.166666666666664,
+        "dimension": 46.34615384615385,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,7 +18,7 @@
       {
         "id": "1766d86e5363ddca",
         "type": "leaf",
-        "dimension": 60.83333333333333,
+        "dimension": 53.65384615384615,
         "state": {
           "type": "mindmap",
           "state": {}
@@ -63,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 304
   },
   "right": {
     "id": "fee3cb2ccd379d39",
