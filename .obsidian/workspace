@@ -6,22 +6,11 @@
       {
         "id": "c0cac5779808f526",
         "type": "leaf",
-        "dimension": 46.34615384615385,
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Notes/Sim Management/Mind Map.md",
-            "mode": "source"
+            "file": "Notes/Sim Management/Kanban.md"
           }
-        }
-      },
-      {
-        "id": "1766d86e5363ddca",
-        "type": "leaf",
-        "dimension": 53.65384615384615,
-        "state": {
-          "type": "mindmap",
-          "state": {}
         }
       }
     ],
@@ -58,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Sim Management/Mind Map.md",
+                "file": "Notes/Sim Management/Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +87,11 @@
   },
   "active": "c0cac5779808f526",
   "lastOpenFiles": [
+    "Notes/Sim Management/Kanban.md",
     "Notes/Sim Management/Mind Map.md",
-    "Notes/Planner/Topics/Sim Management/State/Redux.md",
+    "SIM Type - Edit SIM Type Form.md",
     "Notes/Sim Management/Planner.md",
+    "Notes/Planner/Topics/Sim Management/State/Redux.md",
     "Notes/Planner/Extras/assets/Pasted image 20220424201215.png"
   ]
 }

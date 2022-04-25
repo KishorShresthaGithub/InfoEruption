@@ -1,5 +1,4 @@
 # Sim management
-  
 ## State
 - dispatcher  
 
@@ -50,7 +49,9 @@
 	- forms
 		- components
 			
-			  > Views contain a state or model state, but a component's state is it's props. 
+			Views contain a state or model state, 
+            but a component's state is it's props. 
+                  
 		- validation
 		- multi step
 		
@@ -90,7 +91,7 @@
 	- mobile layout
 - SCSS
 	 - CSS variables
-		- use chakra css variables in 
+		- use chakra css variables
 		- map chakra variables to scss variables
 	- DRY code
 	
