@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c0cac5779808f526",
+        "id": "40559e777576155b",
         "type": "leaf",
         "state": {
           "type": "kanban",
@@ -85,12 +85,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c0cac5779808f526",
+  "active": "40559e777576155b",
   "lastOpenFiles": [
     "Notes/Sim Management/Kanban.md",
     "Notes/Sim Management/Mind Map.md",
-    "SIM Type - Edit SIM Type Form.md",
     "Notes/Sim Management/Planner.md",
+    "SIM Type - Edit SIM Type Form.md",
     "Notes/Planner/Topics/Sim Management/State/Redux.md",
     "Notes/Planner/Extras/assets/Pasted image 20220424201215.png"
   ]

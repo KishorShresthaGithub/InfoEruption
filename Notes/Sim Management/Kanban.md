@@ -18,12 +18,16 @@ kanban-plugin: basic
 ## DOING
 
 - [ ] SIM Type - Edit SIM Type Form
+
+
+## REVIEW
+
+- [ ] SIM Type - Add SIM Type Form
 - [ ] SIM Type - Overview Table
 
 
 ## COMPLETED
 
-- [ ] SIM Type - Add SIM Type Form
 
 
 
