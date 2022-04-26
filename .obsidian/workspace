@@ -3,14 +3,14 @@
     "id": "8ea529c98bd63ea4",
     "type": "split",
     "children": [
-      {
-        "id": "40559e777576155b",
+        "id": "c0cac5779808f526",
         "type": "leaf",
         "state": {
           "type": "kanban",
           "state": {
             "file": "Notes/Sim Management/Kanban.md"
           }
+
         }
       }
     ],
@@ -67,7 +67,9 @@
             "state": {
               "type": "backlink",
               "state": {
+
                 "file": "Notes/Sim Management/Kanban.md",
+
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +87,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40559e777576155b",
+  "active": "1766d86e5363ddca",
   "lastOpenFiles": [
     "Notes/Sim Management/Kanban.md",
     "Notes/Sim Management/Mind Map.md",
