@@ -3,14 +3,26 @@
     "id": "8ea529c98bd63ea4",
     "type": "split",
     "children": [
-        "id": "c0cac5779808f526",
+      {
+        "id": "40559e777576155b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Sim Management/Kanban.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "0dc7229278bdbf0c",
         "type": "leaf",
         "state": {
           "type": "kanban",
           "state": {
             "file": "Notes/Sim Management/Kanban.md"
           }
-
         }
       }
     ],
@@ -51,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304
+    "width": 304,
+    "collapsed": true
   },
   "right": {
     "id": "fee3cb2ccd379d39",
@@ -67,9 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-
                 "file": "Notes/Sim Management/Kanban.md",
-
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,9 +98,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1766d86e5363ddca",
+  "active": "0dc7229278bdbf0c",
   "lastOpenFiles": [
     "Notes/Sim Management/Kanban.md",
+    "Notes/Sim Management/Flow.md",
     "Notes/Sim Management/Mind Map.md",
     "Notes/Sim Management/Planner.md",
     "SIM Type - Edit SIM Type Form.md",
