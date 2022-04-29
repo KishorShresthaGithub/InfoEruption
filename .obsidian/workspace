@@ -4,15 +4,15 @@
     "type": "split",
     "children": [
       {
-
-        "id": "c0cac5779808f526",
+        "id": "1766d86e5363ddca",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Notes/Sim Management/Kanban.md"
+            "file": "Notes/Sim Management/Mind Map.md",
+            "mode": "source",
+            "source": true
           }
-
         }
       }
     ],
@@ -69,9 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-
-                "file": "Notes/Sim Management/Kanban.md",
-
+                "file": "Notes/Sim Management/Mind Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,10 +89,11 @@
   },
   "active": "1766d86e5363ddca",
   "lastOpenFiles": [
-    "Notes/Sim Management/Kanban.md",
     "Notes/Sim Management/Mind Map.md",
-    "SIM Type - Edit SIM Type Form.md",
+    "Notes/Sim Management/Kanban.md",
     "Notes/Sim Management/Planner.md",
+    "Notes/Sim Management/Untitled Kanban.md",
+    "Untitled Kanban.md",
     "Notes/Planner/Topics/Sim Management/State/Redux.md",
     "Notes/Planner/Extras/assets/Pasted image 20220424201215.png"
   ]
