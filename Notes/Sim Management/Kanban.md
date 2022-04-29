@@ -6,28 +6,29 @@ kanban-plugin: basic
 
 ## TO DO
 
-- [ ] Document Config Refactor
 - [ ] Table Component
-- [ ] Image Validation
-- [ ] Wizard form integration
-- [ ] Validation and Styling
 - [ ] User Auth module
 - [ ] Role module
 - [ ] Sim Registration Module
 - [ ] Sim De-Registration Module
 - [ ] Table Filter component
 - [ ] Table Pagination Component
+- [ ] Responsize Design
 
 
 ## DOING
 
 - [ ] KYC multi / wizard form
+- [ ] Image Validation
+- [ ] Wizard form integration
+- [ ] Document Config Refactor
 
 
 ## REVIEW
 
 - [ ] Layout Update
 - [ ] KYC validation
+- [ ] Validation and Styling
 
 
 ## COMPLETED
