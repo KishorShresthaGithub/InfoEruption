@@ -1,0 +1,23 @@
+# Flow
+- Login 
+- SIM Type Module
+	- add sim type
+	- update sim type
+- Corporate KYC module
+	- Upload files
+	- Fill form
+		- Check validation
+- Individual Module 
+	- Show upload files
+- Document Configuration Module
+	- Add Foreigner Condition
+		- Must
+			- passport
+			- residence permit
+		- Either
+			- Supporting Documents
+				- Adoption Documents
+				- Child Birth Certificate
+		
+- Foreigner Module
+	- repeat individual module
