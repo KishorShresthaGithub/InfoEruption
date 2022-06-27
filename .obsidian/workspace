@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Sim Management/Mind Map.md",
+            "file": "Notes/Sim Management/Planner.md",
             "mode": "source",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-               "file": "Notes/Sim Management/Kanban.md",
+                "file": "Notes/Sim Management/Planner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,10 @@
   },
   "active": "cce57cbbc3ff83e0",
   "lastOpenFiles": [
+    "Notes/Sim Management/Planner.md",
+    "Notes/Sim Management/Mind Map.md",
     "Notes/Sim Management/Kanban.md",
     "Notes/Sim Management/Flow.md",
-    "Notes/Sim Management/Mind Map.md",
-    "Notes/Sim Management/Planner.md",
     "SIM Type - Edit SIM Type Form.md",
     "Notes/Planner/Topics/Sim Management/State/Redux.md",
     "Notes/Planner/Extras/assets/Pasted image 20220424201215.png"
